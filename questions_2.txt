@@ -1,0 +1,79 @@
+1)
+What is neural fake news?
+a) A type of news that only appears on social media platforms
+b) Targeted propaganda that closely mimics the style of real news, created using machine learning algorithms.
+c) News that is written by machines without any human involvement.
+d) News that is intentionally written to be misleading.
+Answer: b) Targeted propaganda that closely mimics the style of real news, created using machine learning algorithms.
+
+2)
+What is threat modeling?
+a) The process of identifying potential threats and vulnerabilities from an adversary's point of view, and exploring potential mitigations to these threats.
+b) The process of creating fake news articles using machine learning algorithms.
+c) The process of detecting fake news articles created by machines.
+d) The process of analyzing patterns in real news articles to identify potential propaganda.
+Answer: a) The process of identifying potential threats and vulnerabilities from an adversary's point of view, and exploring potential mitigations to these threats.
+
+3)
+What is Grover?
+a) A tool created by researchers at the University of Washington that can create fake news articles that look very similar to real ones, and can also be used to detect fake news articles made by other tools.
+b) A machine learning algorithm that generates random text.
+c) A social media platform that only shows real news articles.
+d) A fact-checking tool used to verify the accuracy of news articles.
+Answer: a) A tool created by researchers at the University of Washington that can create fake news articles that look very similar to real ones, and can also be used to detect fake news articles made by other tools.
+
+4)
+How does Grover work?
+a) By training models on human-written text, and then generating fake news articles that closely resemble real news articles in terms of content, structure, and style.
+b) By analyzing patterns in real news articles and detecting potential propaganda.
+c) By using social media data to create fake news articles.
+d) By fact-checking news articles for accuracy.
+Answer: a) By training models on human-written text, and then generating fake news articles that closely resemble real news articles in terms of content, structure, and style.
+
+5)
+Why did the researchers make Grover public?
+a) To use it to create fake news articles for research purposes.
+b) To sell it to news organizations for profit.
+c) To defend against adversarial attacks by other researchers.
+d) To spread false information.
+Answer: c) To defend against adversarial attacks by other researchers.
+
+6)
+What is reality vertigo?
+a) The phenomenon where computers can generate such convincing content that regular people may have a hard time figuring out what's true anymore.
+b) The phenomenon where people become dizzy when they use virtual reality headsets.
+c) The phenomenon where people become confused when reading news articles.
+d) The phenomenon where people have trouble distinguishing between reality and fiction.
+Answer: a) The phenomenon where computers can generate such convincing content that regular people may have a hard time figuring out what's true anymore.
+
+7)
+How can artificial intelligence detect and create fake news?
+a) By using machine learning algorithms to analyze patterns and generate text that closely resembles real news articles.
+b) By hiring humans to write fake news articles.
+c) By analyzing social media data and creating fake news articles.
+d) By using fact-checking tools to verify the accuracy of news articles.
+Answer: a) By using machine learning algorithms to analyze patterns and generate text that closely resembles real news articles.
+
+8)
+What is the best defense against Grover?
+a) Ignoring fake news articles altogether.
+b) Using fact-checking tools to verify the accuracy of news articles.
+c) Using Grover itself, which has 92% accuracy in detecting fake news articles created by other tools.
+d) None of the above.
+Answer: c) Using Grover itself, which has 92% accuracy in detecting fake news articles created by other tools.
+
+9)
+How can people combat fake news?
+a) By being more cautious of emotionally-based information, investigating before sharing posts, relying on accurate news sources, and using fact-checking tools.
+b) By blindly trusting any news articles they come across.
+c) By avoiding social media platforms altogether.
+d) By only relying on news articles that confirm their preexisting beliefs.
+Answer: a) By being more cautious of emotionally-based information, investigating before sharing posts, relying on accurate news sources, and using fact-checking tools.
+
+10)
+Why is it important to ensure that at least some of what people see online is true?
+a) To protect free speech.
+b) To ensure that people are entertained.
+c) To promote critical thinking.
+d) To prevent the spread of false information and its negative consequences, such as spreading misinformation, inciting violence, and eroding public trust in institutions.
+Answer: d) To prevent the spread of false information and its negative consequences, such as spreading misinformation, inciting violence, and eroding public trust in institutions.
