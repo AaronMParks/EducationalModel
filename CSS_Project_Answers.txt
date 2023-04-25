@@ -1,0 +1,19 @@
+Question 1 Answer: a) The process of identifying potential threats and vulnerabilities from an adversary's point of view, and exploring potential mitigations to these threats.
+Question 1 Explanation: Threat modeling is a process used in cybersecurity to identify potential threats and vulnerabilities in a system or application. It involves taking an adversarial viewpoint and exploring how an attacker might try to exploit weaknesses in the system. This information is then used to develop mitigations to reduce the risk of a successful attack.
+
+
+Question 2 Answer: a) The phenomenon where computers can generate such convincing content that regular people may have a hard time figuring out what's true anymore.
+Question 2 Explanation: Reality vertigo is a term used to describe the phenomenon where advanced technology, such as machine learning algorithms, can create such convincing content that people have difficulty distinguishing between what is real and what is fake.
+
+
+Question 3 Answer: a) By using machine learning algorithms to analyze patterns and generate text that closely resembles real news articles.
+Question 3 Explanation: Artificial intelligence can be used to detect and create fake news by using machine learning algorithms to analyze patterns in human-written text. These algorithms can then generate text that closely resembles real news articles.
+
+
+Question 4 Answer: a) By being more cautious of emotionally-based information, investigating before sharing posts, relying on accurate news sources, and using fact-checking tools.
+Question 4 Explanation: People can combat fake news by being more cautious of emotionally-based information, investigating before sharing posts, relying on accurate news sources, and using fact-checking tools. This approach helps to ensure that they are not inadvertently spreading false information.
+
+
+Question 5 Answer: d) To prevent the spread of false information and its negative consequences, such as spreading misinformation, inciting violence, and eroding public trust in institutions.
+Question 5 Explanation: False information can have serious consequences, such as spreading misinformation, inciting violence, and eroding public trust in institutions.
+
